@@ -1,3 +1,4 @@
 import Nav from "#components/Nav.jsx";
 import Welcome from "#components/Welcome.jsx";
-export {Nav, Welcome};
+import Dock from "#components/Dock.jsx";
+export {Nav, Welcome, Dock};
