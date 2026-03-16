@@ -1,9 +1,10 @@
-import Nav from "#components/Nav.jsx";
+import {Nav, Welcome} from "./components";
 
 const App = () => {
     return (
         <div>
             <Nav/>
+            <Welcome/>
         </div>
     )
 }
