@@ -1,6 +1,6 @@
 import WindowWrapper from "#hoc/WindowWrapper.jsx";
 import {techStack} from "#constants/index.js";
-import WindowControls from "#components/WindowControls.jsx";
+import {WindowControls} from "#components";
 
 const Terminal = () => {
     return (
